@@ -1,0 +1,11 @@
+numpy
+pandas
+geopandas
+rasterio
+shapely
+osmnx
+torch
+torchvision
+matplotlib
+scikit-learn
+jupyter
